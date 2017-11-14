@@ -38,7 +38,7 @@ One day, you know, we'll have CSS Grid support for Email Clients... then it gets
 
 Visit https://www.wilsons.io or https://CodePen.io/SgiobairOg
 
-<span style='color: #70C2F7;'>If you'd like to unsubscribe from this email I'm sorry to say you are very much mistaken. There's no subscription, this was a one-off. If you think it will help, you can attempt to complain to jason@wilsons.io</span>
+<span style='color:#70C2F7;'>If you'd like to unsubscribe from this email I'm sorry to say you are very much mistaken. There's no subscription, this was a one-off. If you think it will help, you can attempt to complain to jason@wilsons.io</span>
 
 --s220fa
 Content-Type: text/html; charset="utf-8"
