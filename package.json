@@ -1,0 +1,22 @@
+{
+  "name": "sampleemail",
+  "version": "0.0.1",
+  "description": "Sample Email Template Design",
+  "main": "email.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SgiobairOg/SampleEmail.git"
+  },
+  "author": "Jason Wilson wilsons.io @wilsonuponsea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SgiobairOg/SampleEmail/issues"
+  },
+  "homepage": "https://github.com/SgiobairOg/SampleEmail#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
