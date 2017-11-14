@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SgiobairOg/SampleEmail#readme",
   "devDependencies": {
-    "grunt": "^1.0.1"
+    "grunt": "^1.0.1",
+    "grunt-inline-css": "^1.0.0"
   }
 }
